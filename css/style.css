@@ -13,6 +13,39 @@
 	font-size: inherit;
 }
 
+.projCard{
+	background-color: rgb(77, 208, 225,0.2);
+}
+
 h4 {
 	font-weight: 900;
+}
+
+#projImg {
+  height: 70%;
+  max-height: 70%;
+}
+
+#projContent {
+	max-height:30%;
+	overflow-y: scroll;
+	color:#424242;
+	font-weight: 100;
+}
+
+#projBtn {
+	bottom:5px;
+}
+
+#purchaseBtn {
+	bottom:5px;
+	right:75px;
+}
+
+#projTitle {
+	background-color:rgba(229, 115, 115);
+	padding:10px;
+	margin-bottom: 0px;
+	font-weight: 500;
+	text-transform: uppercase;
 }
