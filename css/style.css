@@ -17,6 +17,12 @@
 	background-color: rgb(77, 208, 225,0.2);
 }
 
+.newsHeader {
+	color: #ef5350;
+	font-weight: 100;
+	text-transform: uppercase;
+}
+
 h4 {
 	font-weight: 900;
 }
